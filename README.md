@@ -20,29 +20,42 @@ For this project, I leveraging insights from the completed [Audit Lab](https://g
 
 ## Step 1: Understanding Control Status  
 My review of NIST SP 800-53 identified a missing control: Media Protection Policy and Procedures (MP-1). Interviews with Director of IT, John Connor, a review of SOPs and SSPs, and prior threat modeling all point to unauthorized access as the most significant risk associated with this gap. <br>
+<br>
 ![Image 1](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/b219dc18-405b-47d7-b3cc-b3c2cbe5ff2e) <br>
 
+<br>
 
 ## Step 2: Identifying Mitigating Factors 
 While the lack of a formal Media Protection Policy (MP-1) creates a risk of unauthorized access, evidence from the interview suggests a mitigating factor: employees may share unwritten knowledge (or "tribal knowledge") about media protection practices. However, relying on tribal knowledge can be risky, as it's not documented and can be easily lost with employee turnover. <br>
+<br>
 ![Image 2](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/2ba7def6-cc38-4039-9bcc-dae8c5be5650) <br>
 
+<br>
 
 ## Step 3: Quantitative Risk Assessment
-I then used [NIST SP 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) assessment scales for quantitative determination of impact and likelihood of this risk. Understanding these values allows me to consistently determine the risk for each control.  
-<img src="https://i.imgur.com/GgFlIRM.png" height="50%" width="50%" /> <br/>
-Using these values, I can objectively determine that the likelihood of unauthorized access would be a 5 (low), and the impact if it were to happen would also be a 5 (low); the overall impact for this risk is 25/100 (low).  
-<img src="https://i.imgur.com/XTFfHp4.jpg" />
+Using the [NIST SP 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) risk assessment framework scales, quantitative values were assigned for both the impact and likelihood of unauthorized access due to the missing media protection policy. This standardized approach ensures consistent risk evaluation across all controls. <br>
+<br>
+<img src="https://i.imgur.com/GgFlIRM.png" height="50%" width="50%" /> <br>
+<br>
+Based on this, the risk of unauthorized access appears relatively low.  I assigned a score of "5" (low) for both the likelihood of occurrence and the potential impact.  This translates to an overall risk score of 25 (low) on a scale of 100. <br>
+<br>
+![Image 3](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/68779ad8-ccf0-44a1-821a-99fffae34cb8)
+
+<br>
 
 ## Step 4: Objective Risk Explanation 
 My objective, defensible explanation for this risk: "Staff do not know what expectations or standards are, and no process around media protection, storage, or sanitization is documented, so may not be done properly. Without standards and policy, no process can be repeated consistently, and staff will develop their own individual processes."  
 <img src="https://i.imgur.com/i5c0MYk.jpg" />
+
+<br>
 
 ## Step 5: Repetition for Each Control
 After completing the risk assessment for Media Access control MP-1, I repeated steps 1-4 for controls MP-2 through MP-8.  
 <img src="https://i.imgur.com/ImcETjV.png" height="50%" width="50%" /> <br/>
 (reference image for evidence gathering as seen in [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing) project)  
 <img src="https://i.imgur.com/J5Gd4OG.png" height="50%" width="50%" /> <br/>
+
+<br>
 
 ## Step 6: Prioritizing Risks
 I then sorted the spreadsheet by overall risk to prioritize the controls that have the highest risk.  
