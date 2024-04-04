@@ -1,7 +1,7 @@
 # Security Risk Assessment
 
 ## Description
-For this project, I leveraging insights from the completed [Audit Lab](https://github.com/Manny-D/Audit-Lab). I conducted a comprehensive risk assessment to identify vulnerabilities and strengthen an organization's data security posture.
+For this project, I leveraged insights from the completed [Audit Lab](https://github.com/Manny-D/Audit-Lab). I conducted a comprehensive risk assessment to identify vulnerabilities and strengthen an organization's data security posture.
 
 
  ### Key Points
@@ -61,8 +61,6 @@ After completing the risk assessment for Media Access control MP-1, steps 1-4 we
 The spreadsheet was then sorted by overall risk in order to prioritize the controls that have the highest risk. <br>
 <br>
 By prioritizing and organizing identified risks, an executive report can be writted to effectively communicate vulnerabilities to the organization. <br>
-<br>
-<img src="https://i.imgur.com/kKK1s9r.png" height="50%" width="50%" /> <br>
 <br>
 
 Click <a href="https://docs.google.com/spreadsheets/d/17433iyECdZrIzeGKufFavIlnTmdRoH_V/edit?usp=sharing&ouid=112896329836241270049&rtpof=true&sd=true" target="_blank"> here</a> to view the Risk Assessment Spreadsheet.
