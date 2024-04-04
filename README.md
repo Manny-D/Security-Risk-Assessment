@@ -35,19 +35,19 @@ While the lack of a formal Media Protection Policy (MP-1) creates a risk of unau
 ## Step 3: Quantitative Risk Assessment
 Using the [NIST SP 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) risk assessment framework scales, quantitative values were assigned for both the impact and likelihood of unauthorized access due to the missing media protection policy. This standardized approach ensures consistent risk evaluation across all controls. <br>
 <br>
-<img src="https://i.imgur.com/GgFlIRM.png" height="50%" width="50%" /> <br>
+![Image 3](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/ae4089c0-b205-40ec-af22-b476b25d3248) <br>
 <br>
 Based on this, the risk of unauthorized access appears relatively low.  I assigned a score of "5" (low) for both the likelihood of occurrence and the potential impact.  This translates to an overall risk score of 25 (low) on a scale of 100. <br>
 <br>
-![Image 3](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/68779ad8-ccf0-44a1-821a-99fffae34cb8)
+![Image 4](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/68779ad8-ccf0-44a1-821a-99fffae34cb8)
 
 <br>
 
-## Step 4: Objective Risk Explanation 
+## Step 4: Risk Explanation 
 The Risk explanation is as follows: "Staff do not know what expectations or standards are and no process around media protection, storage, sanitization is documented so may not be done properly
 Without standards and policy no process can be repeated consistently and staff will develop their own individual processes." <br>
 <br> 
-![Image 4](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/8ae12421-0a64-4d32-87b8-06a6a22848b2)
+![Image 5](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/8ae12421-0a64-4d32-87b8-06a6a22848b2)
 
 
 <br>
@@ -57,9 +57,8 @@ After completing the risk assessment for Media Access control MP-1, steps 1-4 we
 
 <br>
 
-## Step 6: Prioritizing Risks
+## Step 6: Risk Prioritization
 The spreadsheet was then sorted by overall risk in order to prioritize the controls that have the highest risk. <br>
-<br>
 By prioritizing and organizing identified risks, an executive report can be writted to effectively communicate vulnerabilities to the organization. <br>
 <br>
 
