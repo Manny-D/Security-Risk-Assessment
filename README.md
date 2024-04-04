@@ -1,4 +1,4 @@
-# Capstone: Security Risk Assessment
+# Security Risk Assessment
 
 ## Description
 For this project, I leveraging insights from the completed [Audit Lab](https://github.com/Manny-D/Audit-Lab). I conducted a comprehensive risk assessment to identify vulnerabilities and strengthen an organization's data security posture.
