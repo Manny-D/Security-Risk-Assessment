@@ -19,14 +19,14 @@ For this project, I leveraging insights from the completed [Audit Lab](https://g
 
 
 ## Step 1: Understanding Control Status  
-After reviewing [NIST SP 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf), I determined the control MP-1 (Media Protection Policy and Procedures) was not in place.
-<img src="https://i.imgur.com/Ki7wr8F.jpg" /> <br/>
-Based on the interview with Director of IT, John Connor, the review of the SOP and SSP, and the threat modeling conducted prior to the audit, I determined that the biggest risk for not having Media Protection policies and procedures in place is unauthorized access.  
-<img src="https://i.imgur.com/U5gOVCG.jpg" />
+My review of NIST SP 800-53 identified a missing control: Media Protection Policy and Procedures (MP-1). Interviews with Director of IT, John Connor, a review of SOPs and SSPs, and prior threat modeling all point to unauthorized access as the most significant risk associated with this gap. <br>
+![Image 1](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/b219dc18-405b-47d7-b3cc-b3c2cbe5ff2e) <br>
+
 
 ## Step 2: Identifying Mitigating Factors 
-From the evidence I gathered in the interview, I can say that a mitigating factor for this risk is "Tribal knowledge in place" for people within the organization.  
-<img src="https://i.imgur.com/jHrbQZq.jpg" />
+While the lack of a formal Media Protection Policy (MP-1) creates a risk of unauthorized access, evidence from the interview suggests a mitigating factor: employees may share unwritten knowledge (or "tribal knowledge") about media protection practices. However, relying on tribal knowledge can be risky, as it's not documented and can be easily lost with employee turnover. <br>
+![Image 2](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/2ba7def6-cc38-4039-9bcc-dae8c5be5650) <br>
+
 
 ## Step 3: Quantitative Risk Assessment
 I then used [NIST SP 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) assessment scales for quantitative determination of impact and likelihood of this risk. Understanding these values allows me to consistently determine the risk for each control.  
