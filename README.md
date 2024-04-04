@@ -44,30 +44,28 @@ Based on this, the risk of unauthorized access appears relatively low.  I assign
 <br>
 
 ## Step 4: Objective Risk Explanation 
-My objective, defensible explanation for this risk: "Staff do not know what expectations or standards are, and no process around media protection, storage, or sanitization is documented, so may not be done properly. Without standards and policy, no process can be repeated consistently, and staff will develop their own individual processes."  
-<img src="https://i.imgur.com/i5c0MYk.jpg" />
+The Risk explanation is as follows: "Staff do not know what expectations or standards are and no process around media protection, storage, sanitization is documented so may not be done properly
+Without standards and policy no process can be repeated consistently and staff will develop their own individual processes." <br>
+<br> 
+![Image 4](https://github.com/Manny-D/Security-Risk-Assessment/assets/99146530/8ae12421-0a64-4d32-87b8-06a6a22848b2)
+
 
 <br>
 
-## Step 5: Repetition for Each Control
-After completing the risk assessment for Media Access control MP-1, I repeated steps 1-4 for controls MP-2 through MP-8.  
-<img src="https://i.imgur.com/ImcETjV.png" height="50%" width="50%" /> <br/>
-(reference image for evidence gathering as seen in [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing) project)  
-<img src="https://i.imgur.com/J5Gd4OG.png" height="50%" width="50%" /> <br/>
+## Step 5: Rinse and Repeat for the remaining Controls
+After completing the risk assessment for Media Access control MP-1, steps 1-4 were repeated for controls MP-2 through MP-8.
 
 <br>
 
 ## Step 6: Prioritizing Risks
-I then sorted the spreadsheet by overall risk to prioritize the controls that have the highest risk.  
-<img src="https://i.imgur.com/FzZVLZO.png" height="50%" width="50%" /> <br/>
-Now that I had an organized list of the risks, I created an executive report to effectively communicate the risks with the organization.  
-<img src="https://i.imgur.com/kKK1s9r.png" height="50%" width="50%" /> <br/>
-
+The spreadsheet was then sorted by overall risk in order to prioritize the controls that have the highest risk. <br>
+<br>
+By prioritizing and organizing identified risks, an executive report can be writted to effectively communicate vulnerabilities to the organization. <br>
+<br>
+<img src="https://i.imgur.com/kKK1s9r.png" height="50%" width="50%" /> <br>
 <br>
 
-<p align="center">
-  <span style="font-size: 2em;">Click <a href="https://docs.google.com/spreadsheets/d/17433iyECdZrIzeGKufFavIlnTmdRoH_V/edit?usp=sharing&ouid=112896329836241270049&rtpof=true&sd=true" target="_blank"> here</a> to view the Risk Assessment Spreadsheet.</span>
-</p>
+Click <a href="https://docs.google.com/spreadsheets/d/17433iyECdZrIzeGKufFavIlnTmdRoH_V/edit?usp=sharing&ouid=112896329836241270049&rtpof=true&sd=true" target="_blank"> here</a> to view the Risk Assessment Spreadsheet.
 
 <br>
 
